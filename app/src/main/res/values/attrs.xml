@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GroupButtonView -->
+    <declare-styleable name="GroupButtonView">
+        <attr name="groupBtnNameText" format="string"></attr>
+        <attr name="groupBtnCodeText" format="string"></attr>
+    </declare-styleable>
+
+
+</resources>

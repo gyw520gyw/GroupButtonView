@@ -34,4 +34,4 @@ gbv1.setOnGroupBtnClickListener(new GroupButtonView.OnGroupBtnClickListener() {
 
 
 #Screenshot
-screenshot/GroupButtonView.gif
+![sample](./screenshot/GroupButtonView.gif)
